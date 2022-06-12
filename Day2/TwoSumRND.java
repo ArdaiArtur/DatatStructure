@@ -1,7 +1,17 @@
+package Day2;
+
 import java.util.HashMap;
 import java.util.Map;
 
+
+
+/**
+ * TwoSumRND
+ */
 public class TwoSumRND {
+
+    
+
     
     public static void main(String[] args) {
         
