@@ -2,7 +2,7 @@ package Day3;
 
 import java.util.Arrays;
 
-import javax.naming.spi.DirStateFactory.Result;
+
 
 public class IntersectTwoAryVecNumerare {
     

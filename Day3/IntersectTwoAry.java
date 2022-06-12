@@ -2,8 +2,6 @@ package Day3;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.HashSet;
-import java.util.LinkedList;
 import java.util.List;
 
 public class IntersectTwoAry {
@@ -41,7 +39,7 @@ public class IntersectTwoAry {
                 }
         }  
      }
-     int []fin=lis.stream().mapToInt(Integer::intValue).toArray();
+     
      return lis.stream().mapToInt(Integer::intValue).toArray();
     }
 }
