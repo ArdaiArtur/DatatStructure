@@ -7,7 +7,7 @@ public class ValidSoduku {
         
     }
 
-    public boolean isValidSudoku(char[][] board) {
+    public static boolean isValidSudoku(char[][] board) {
      HashSet<Character>hs=new HashSet<Character>();
      int x=0;
      for (int i = 0; i < board.length; i++) {
