@@ -4,7 +4,7 @@ public class RansomeNote {
     public static void main(String[] args) {
         
     }
-    public boolean canConstruct(String ransomNote, String magazine) {
+    public static boolean canConstruct(String ransomNote, String magazine) {
        
         char[]off=new char[128];
         
